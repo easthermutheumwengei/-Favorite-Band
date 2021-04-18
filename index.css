@@ -3,7 +3,7 @@ body {
     text-decoration: darkgoldenrod;
 }
 .header {
-    text-decoration: darkorange;
+    color: darkred;
 }
 .ul {
     overflow: scroll;
