@@ -26,6 +26,9 @@ h3 {
     font-size: 30px;
 }
 .link {
-    padding: 60px;
-    
+    padding: 60px; 
+}
+.mk{ 
+    width: 500px;
+    height: 500px;
 }
