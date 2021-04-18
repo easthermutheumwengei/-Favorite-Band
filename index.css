@@ -31,4 +31,8 @@ h3 {
 .mk,.bc,.wn{ 
     width: 500px;
     height: 500px;
+    border-radius: 50%;
+}
+.para1 {
+    padding-bottom: 40px;
 }
