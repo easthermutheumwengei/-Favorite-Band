@@ -33,6 +33,6 @@ h3 {
     height: 500px;
     border-radius: 50%;
 }
-.para1 {
+.para1,.para2{
     padding-bottom: 40px;
 }
