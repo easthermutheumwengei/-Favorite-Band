@@ -28,7 +28,7 @@ h3 {
 .link {
     padding: 60px; 
 }
-.mk{ 
+.mk,.bc{ 
     width: 500px;
     height: 500px;
 }
