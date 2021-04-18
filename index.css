@@ -1,6 +1,10 @@
-img {
-    width: 300;
-    height: 200;
-
+body {
+    background-color: rgb(139, 130, 0);
+    text-decoration: darkgoldenrod;
 }
-    
+.header {
+    text-decoration: darkorange;
+}
+.ul {
+    overflow: scroll;
+}
